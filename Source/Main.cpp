@@ -6,7 +6,6 @@
 #include <string>
 #include <vector>
 #include <EGL/egl.h>
-#define GL_GLES_PROTOTYPES
 #include <GLES3/gl3.h>
 #include <GLES3/gl31.h>
 
